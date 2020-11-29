@@ -7,7 +7,7 @@ import predicate.services.ProdutoPredicate;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Program {
+public class ProgramPredicate {
 
     public static void main(String[] args) {
 
